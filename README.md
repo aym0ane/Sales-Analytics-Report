@@ -9,16 +9,17 @@ Welcome to the Sales Analytics Report project for an Australian client. This pro
 
 
 ## Table Of Contents*
-- [Introduction]()
-- [Objective]()
-- [Project Steps]()
-- [Conclusion]()
+- [Introduction](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#introduction)
+- [Objective](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#objective)
+- [Project Steps](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#data-modeling)
+- [Conclusion](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#objective)
 
 ## Objective 
 
 The primary objective of this project was to create a dynamic and interactive sales analytics report that not only adheres to the client's branding requirements but also provides multi-dimensional insights into their sales data. By leveraging Power BI's robust features, including DAX formulas, filters, highlights, and tooltips, the report delivers actionable insights tailored to the client's business needs.
 
- ### Data Modeling 
+## Project Steps 
+### Data Modeling 
 
     - Developed a star schema data model to ensure efficient query execution and simplified relationships.
     - Performed data cleaning and transformation to prepare for reporting.
