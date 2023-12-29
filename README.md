@@ -12,6 +12,7 @@ Welcome to the Sales Analytics Report project for an Australian client. This pro
 - [Introduction](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#introduction)
 - [Objective](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#objective)
 - [Project Steps](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#data-modeling)
+- [Project Overview](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#data-modeling)
 - [Conclusion](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#objective)
 
 ## Objective 
@@ -40,6 +41,7 @@ The primary objective of this project was to create a dynamic and interactive sa
 
 
 
+## PROJECT OVERVIEW 
 
 
 
