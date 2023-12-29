@@ -6,7 +6,7 @@
 Welcome to the Sales Analytics Report project for an Australian client. This project showcases a comprehensive sales analysis, designed and executed using Microsoft Power BI. The dashboards crafted here are a testament to advanced data visualization, analytical proficiency, and an acute understanding of business intelligence principles. 
 
 
-
+![proejct](https://github.com/aym0ane/Sales-Analytics-Report/blob/main/Sales%20Analytics.png)
 
 ## Table Of Contents
 - [Introduction](https://github.com/aym0ane/Sales-Analytics-Report/tree/main?tab=readme-ov-file#introduction)
